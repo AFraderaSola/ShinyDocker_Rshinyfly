@@ -1,2 +1,2 @@
-# ShinyDocker_Rshinyfly
-Docker container for the Rshinyfly Shiny App
+# ShinyDocker_PombeKOViewer
+Docker container for the PombeKOViewer Shiny App
